@@ -1,0 +1,1 @@
+Server host Allure Report
