@@ -1,0 +1,8 @@
+INFO     root:HomePage.py:24 This is an info log message
+INFO     mylogger:test_home3.py:30 Open Page
+INFO     mylogger:test_home3.py:32 search item
+INFO     mylogger:test_home3.py:34 choose item
+INFO     mylogger:test_home3.py:36 add to cart the item
+INFO     mylogger:test_home3.py:38 check cart
+INFO     root:CheckoutPage.py:29 --------- quantity is 1
+INFO     mylogger:test_home3.py:40 update successfully

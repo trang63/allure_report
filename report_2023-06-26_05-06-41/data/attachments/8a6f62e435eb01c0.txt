@@ -1,0 +1,13 @@
+2023-06-26 05:06:08,178 - INFO - This is an info log message
+2023-06-26 05:06:08,179 :INFO : test_add_item_to_cart_successfully :Open Page
+2023-06-26 05:06:08,179 - INFO - Open Page
+2023-06-26 05:06:08,716 :INFO : test_add_item_to_cart_successfully :search item
+2023-06-26 05:06:08,716 - INFO - search item
+2023-06-26 05:06:10,209 :INFO : test_add_item_to_cart_successfully :choose item
+2023-06-26 05:06:10,209 - INFO - choose item
+2023-06-26 05:06:12,243 :INFO : test_add_item_to_cart_successfully :add to cart the item
+2023-06-26 05:06:12,243 - INFO - add to cart the item
+2023-06-26 05:06:13,751 :INFO : test_add_item_to_cart_successfully :check cart
+2023-06-26 05:06:13,751 - INFO - check cart
+2023-06-26 05:06:15,628 :INFO : test_add_item_to_cart_successfully :checkout successfully
+2023-06-26 05:06:15,628 - INFO - checkout successfully
