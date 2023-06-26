@@ -1,0 +1,14 @@
+2023-06-26 04:58:52,761 - INFO - This is an info log message
+2023-06-26 04:58:52,762 :INFO : test_add_multiple_item_to_cart_successfully :Open Page
+2023-06-26 04:58:52,762 - INFO - Open Page
+2023-06-26 04:58:53,280 :INFO : test_add_multiple_item_to_cart_successfully :search item
+2023-06-26 04:58:53,280 - INFO - search item
+2023-06-26 04:58:54,606 :INFO : test_add_multiple_item_to_cart_successfully :choose item
+2023-06-26 04:58:54,606 - INFO - choose item
+2023-06-26 04:58:56,014 :INFO : test_add_multiple_item_to_cart_successfully :add to cart the item
+2023-06-26 04:58:56,014 - INFO - add to cart the item
+2023-06-26 04:58:57,165 :INFO : test_add_multiple_item_to_cart_successfully :check cart
+2023-06-26 04:58:57,165 - INFO - check cart
+2023-06-26 04:58:57,208 - INFO - --------- quantity is 1
+2023-06-26 04:58:58,753 :INFO : test_add_multiple_item_to_cart_successfully :update successfully
+2023-06-26 04:58:58,753 - INFO - update successfully
