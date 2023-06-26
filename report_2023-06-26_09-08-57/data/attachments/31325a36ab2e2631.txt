@@ -1,0 +1,9 @@
+2023-06-26 09:08:15,470 :INFO : test_home_2 :Login
+2023-06-26 09:08:15,470 - INFO - Login
+2023-06-26 09:08:15,578 :INFO : test_home_2 :add to cart
+2023-06-26 09:08:15,578 - INFO - add to cart
+Number Of product in cast 1
+2023-06-26 09:08:16,027 :INFO : test_home_2 :check cart
+2023-06-26 09:08:16,027 - INFO - check cart
+2023-06-26 09:08:16,992 :INFO : test_home_2 :checkout successfully
+2023-06-26 09:08:16,992 - INFO - checkout successfully
