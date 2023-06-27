@@ -1,0 +1,4 @@
+INFO     root:HomePage.py:24 This is an info log message
+INFO     mylogger:test_home3.py:13 Open Page
+INFO     mylogger:test_home3.py:15 search item
+INFO     mylogger:test_home3.py:17 choose item

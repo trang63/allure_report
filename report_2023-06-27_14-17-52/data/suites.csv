@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 27 07:17:08 UTC 2023","Tue Jun 27 07:17:11 UTC 2023","3254","tests.saucelab","test_home2","TestHomeTask","","","test_home_2",""
+"passed","Tue Jun 27 07:17:08 UTC 2023","Tue Jun 27 07:17:14 UTC 2023","6153","tests.rahult","test_HomePage","TestHomePage","","","test_formSubmission[getData0]",""
+"passed","Tue Jun 27 07:17:33 UTC 2023","Tue Jun 27 07:17:41 UTC 2023","7929","tests.shopdemoqa","test_home3","TestHomeTask3","","","test_add_multiple_item_to_cart_successfully",""
+"passed","Tue Jun 27 07:17:08 UTC 2023","Tue Jun 27 07:17:19 UTC 2023","11140","tests.rahult","test_e2e","TestOne","","","test_e2e",""
+"passed","Tue Jun 27 07:17:20 UTC 2023","Tue Jun 27 07:17:24 UTC 2023","3868","tests.rahult","test_HomePage","TestHomePage","","","test_formSubmission_second[getData0]",""
+"broken","Tue Jun 27 07:17:26 UTC 2023","Tue Jun 27 07:17:30 UTC 2023","3553","tests.shopdemoqa","test_home3","TestHomeTask3","","","test_add_item_to_cart_successfully",""
