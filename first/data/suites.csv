@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Jun 26 03:31:20 UTC 2023","Mon Jun 26 03:31:30 UTC 2023","9865","tests.shopdemoqa","test_home3","TestHomeTask3","","","test_add_item_to_cart_successfully",""
-"passed","Mon Jun 26 03:31:33 UTC 2023","Mon Jun 26 03:31:42 UTC 2023","9632","tests.shopdemoqa","test_home3","TestHomeTask3","","","test_add_multiple_item_to_cart_successfully",""
