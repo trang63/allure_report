@@ -1,0 +1,8 @@
+INFO     mylogger:test_e2e.py:12 getting all the card titles
+INFO     mylogger:test_e2e.py:18 iphone X
+INFO     mylogger:test_e2e.py:18 Samsung Note 8
+INFO     mylogger:test_e2e.py:18 Nokia Edge
+INFO     mylogger:test_e2e.py:18 Blackberry
+INFO     mylogger:test_e2e.py:25 Entering country name as ind
+INFO     mylogger:test_e2e.py:34 Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
