@@ -1,0 +1,16 @@
+2023-06-27 07:01:49,296 :INFO : test_e2e :getting all the card titles
+2023-06-27 07:01:49,296 - INFO - getting all the card titles
+2023-06-27 07:01:49,329 :INFO : test_e2e :iphone X
+2023-06-27 07:01:49,329 - INFO - iphone X
+2023-06-27 07:01:49,345 :INFO : test_e2e :Samsung Note 8
+2023-06-27 07:01:49,345 - INFO - Samsung Note 8
+2023-06-27 07:01:49,357 :INFO : test_e2e :Nokia Edge
+2023-06-27 07:01:49,357 - INFO - Nokia Edge
+2023-06-27 07:01:49,366 :INFO : test_e2e :Blackberry
+2023-06-27 07:01:49,366 - INFO - Blackberry
+2023-06-27 07:01:49,684 :INFO : test_e2e :Entering country name as ind
+2023-06-27 07:01:49,684 - INFO - Entering country name as ind
+2023-06-27 07:01:55,378 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-27 07:01:55,378 - INFO - Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
