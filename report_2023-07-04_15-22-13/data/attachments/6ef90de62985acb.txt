@@ -1,0 +1,4 @@
+2023-07-04 08:21:42,768 :INFO : test_1 :Login
+2023-07-04 08:21:42,945 :INFO : test_1 :add to cart
+2023-07-04 08:21:43,249 :INFO : test_1 :check cart
+2023-07-04 08:21:44,110 :INFO : test_1 :checkout successfully
