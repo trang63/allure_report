@@ -1,0 +1,16 @@
+Start setup.....
+2023-07-04 07:25:17,918 :INFO : test_add_item_to_cart_successfully :Open Page
+2023-07-04 07:25:17,918 - INFO - Open Page
+2023-07-04 07:25:18,652 :INFO : test_add_item_to_cart_successfully :search item
+2023-07-04 07:25:18,652 - INFO - search item
+2023-07-04 07:25:21,221 :INFO : test_add_item_to_cart_successfully :choose item
+2023-07-04 07:25:21,221 - INFO - choose item
+2023-07-04 07:25:24,091 :INFO : test_add_item_to_cart_successfully :add to cart the item
+2023-07-04 07:25:24,091 - INFO - add to cart the item
+2023-07-04 07:25:25,459 :INFO : test_add_item_to_cart_successfully :check cart
+2023-07-04 07:25:25,459 - INFO - check cart
+2023-07-04 07:25:26,777 :INFO : test_add_item_to_cart_successfully :checkout
+2023-07-04 07:25:26,777 - INFO - checkout
+2023-07-04 07:25:26,835 :INFO : test_add_item_to_cart_successfully :Verify checkout successfully
+2023-07-04 07:25:26,835 - INFO - Verify checkout successfully
+Finish setup.....

@@ -1,0 +1,11 @@
+Start setup.....
+2023-07-04 07:25:15,423 :INFO : test_1 :Login
+2023-07-04 07:25:15,423 - INFO - Login
+2023-07-04 07:25:15,506 :INFO : test_1 :add to cart
+2023-07-04 07:25:15,506 - INFO - add to cart
+Number Of product in cast 1
+2023-07-04 07:25:15,838 :INFO : test_1 :check cart
+2023-07-04 07:25:15,838 - INFO - check cart
+2023-07-04 07:25:16,648 :INFO : test_1 :checkout successfully
+2023-07-04 07:25:16,648 - INFO - checkout successfully
+Finish setup.....
