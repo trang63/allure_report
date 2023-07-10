@@ -1,0 +1,7 @@
+2023-07-10 17:19:01,659 :INFO : test_add_item_to_cart_successfully :Open Page
+2023-07-10 17:19:02,460 :INFO : test_add_item_to_cart_successfully :search item
+2023-07-10 17:19:03,820 :INFO : test_add_item_to_cart_successfully :choose item
+2023-07-10 17:19:06,078 :INFO : test_add_item_to_cart_successfully :add to cart the item
+2023-07-10 17:19:07,346 :INFO : test_add_item_to_cart_successfully :check cart
+2023-07-10 17:19:09,002 :INFO : test_add_item_to_cart_successfully :checkout
+2023-07-10 17:19:09,131 :INFO : test_add_item_to_cart_successfully :Verify checkout successfully
