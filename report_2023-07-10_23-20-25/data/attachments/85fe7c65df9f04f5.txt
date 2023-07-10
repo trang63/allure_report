@@ -1,0 +1,4 @@
+INFO     mylogger:test_saucelab.py:15 Login
+INFO     mylogger:test_saucelab.py:17 add to cart
+INFO     mylogger:test_saucelab.py:20 check cart
+INFO     mylogger:test_saucelab.py:23 checkout successfully
