@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 19 06:27:52 UTC 2023","Wed Jul 19 06:28:01 UTC 2023","9666","tests.UtestSignup","test_signup_page","TestUtestPage","","","Test Signup Page",""
+"passed","Wed Jul 19 06:27:37 UTC 2023","Wed Jul 19 06:27:52 UTC 2023","14649","tests.shopdemoqa","test_shopdemo","TestShopDemoPage","","","End To End Test ShopDemo Page",""
+"passed","Wed Jul 19 06:27:37 UTC 2023","Wed Jul 19 06:27:40 UTC 2023","3468","tests.saucelab","test_saucelab","TestSauceLab","","","Test End To End",""
+"passed","Wed Jul 19 06:27:55 UTC 2023","Wed Jul 19 06:28:12 UTC 2023","16520","tests.shopdemoqa","test_shopdemo","TestShopDemoPage","","","Additional Test ShopDemo Page",""
+"passed","Wed Jul 19 06:27:37 UTC 2023","Wed Jul 19 06:27:48 UTC 2023","11476","tests.UtestSignup","test_signup_page","TestUtestPage","","","Test Signup Page",""
