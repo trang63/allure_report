@@ -1,0 +1,4 @@
+2023-07-19 05:59:40,515 :INFO : test_add_multiple_item_to_cart_successfully :Open Page
+2023-07-19 05:59:41,026 :INFO : test_add_multiple_item_to_cart_successfully :search item
+2023-07-19 05:59:42,602 :INFO : test_add_multiple_item_to_cart_successfully :choose item
+2023-07-19 05:59:44,958 :INFO : test_add_multiple_item_to_cart_successfully :add to cart the item
