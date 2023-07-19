@@ -1,0 +1,7 @@
+2023-07-19 03:56:54,463 :INFO : test_add_multiple_item_to_cart_successfully :Open Page
+2023-07-19 03:56:55,110 :INFO : test_add_multiple_item_to_cart_successfully :search item
+2023-07-19 03:56:56,781 :INFO : test_add_multiple_item_to_cart_successfully :choose item
+2023-07-19 03:56:59,440 :INFO : test_add_multiple_item_to_cart_successfully :add to cart the item
+2023-07-19 03:57:00,758 :INFO : test_add_multiple_item_to_cart_successfully :check cart
+2023-07-19 03:57:02,371 :INFO : test_add_multiple_item_to_cart_successfully :update shopping cart
+2023-07-19 03:57:02,539 :INFO : test_add_multiple_item_to_cart_successfully :update successfully
