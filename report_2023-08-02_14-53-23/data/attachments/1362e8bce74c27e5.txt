@@ -1,0 +1,2 @@
+2023-08-02 07:53:02,296 :INFO : test_add_multiple_item_to_cart_successfully :Open Page
+2023-08-02 07:53:03,021 :INFO : test_add_multiple_item_to_cart_successfully :search item

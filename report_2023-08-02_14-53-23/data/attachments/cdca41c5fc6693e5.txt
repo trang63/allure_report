@@ -1,0 +1,2 @@
+INFO     mylogger:test_shopdemo.py:35 Open Page
+INFO     mylogger:test_shopdemo.py:37 search item
