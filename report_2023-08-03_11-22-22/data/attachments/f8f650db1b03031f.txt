@@ -1,0 +1,7 @@
+INFO     mylogger:test_shopdemo.py:15 Open Page
+INFO     mylogger:test_shopdemo.py:17 search item
+INFO     mylogger:test_shopdemo.py:19 choose item
+INFO     mylogger:test_shopdemo.py:21 add to cart the item
+INFO     mylogger:test_shopdemo.py:23 check cart
+INFO     mylogger:test_shopdemo.py:25 checkout
+INFO     mylogger:test_shopdemo.py:27 Verify checkout successfully
