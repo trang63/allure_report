@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Aug 04 03:34:42 UTC 2023","Fri Aug 04 03:34:42 UTC 2023","0","tests.shopdemoqa","test_shopdemo","TestShopDemoPage","","","End To End Test ShopDemo Page",""
+"broken","Fri Aug 04 03:34:43 UTC 2023","Fri Aug 04 03:34:43 UTC 2023","0","tests.shopdemoqa","test_shopdemo","TestShopDemoPage","","","Additional Test ShopDemo Page",""
+"broken","Fri Aug 04 03:34:43 UTC 2023","Fri Aug 04 03:34:43 UTC 2023","0","tests.shopdemoqa","test_shopdemo","TestShopDemoPage","","","Additional Test ShopDemo Page",""
